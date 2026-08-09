@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinchon-club-note.go-apgujeong-nrb.xyz/sitemap.xml
+Sitemap: https://sinchon-club-note.go-apgujeong-nrb.xyz/sitemap-pages.xml
